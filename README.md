@@ -38,7 +38,7 @@ An interactive visualization tool that helps students and job seekers understand
    npm start
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+4. Open [http://localhost:3000](https://primeshinde.netlify.app/) to view the application in your browser.
 
 ## Usage
 
